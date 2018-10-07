@@ -4,12 +4,9 @@ You can use the [editor on GitHub](https://github.com/hilaryYo/somethingcool.git
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### What do I want to create here?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+I'd like to create a simple blog with various short subjects demonstrated basic understanding of using Github and markdown and creating documentation for a software project.
 
 # Header 1
 ## Header 2
