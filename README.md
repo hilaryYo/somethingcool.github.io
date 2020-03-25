@@ -9,6 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 I'd like to create a simple blog with various short subjects demonstrated basic understanding of using Github and markdown and creating documentation for a software project.
 
 # Header 1
+
+The blog is deployed.
+
 ## Header 2
 ### Header 3
 
