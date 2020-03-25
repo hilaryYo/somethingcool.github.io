@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Making the Most of Blah, Blah, Blah
 
 You can use the [editor on GitHub](https://github.com/hilaryYo/somethingcool.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
